@@ -46,25 +46,25 @@ similar hand signs.
 
 ## Timeline
 
-###### 23rd Mar - 31st Mar: Data Collection
+###### 23rd Mar - 29st Mar: Data Collection
 Extraction of frames from videos available on PSL(psl.org.pk) or ASL.
 These frames will then be treated as images. This would be our
 initial dataset. However, we are looking into more sources for data
 as this alone might not be enough.
 
-###### 1st Apr - 14th April: A Working Classifier
+###### 3st Apr - 14th April: A Working Classifier
 We will train and finetune a basic classifier that takes a picture as
 input and outputs the corresponding word. These words will not form
 coherent sentences (that is a completely different domain).The words will
 be fed to an existing text to speech converter.
 
-###### 15th Apr - 30th Apr: Mobile Application
+###### 20th Apr - 30th Apr: Mobile Application
 Work on a basic camera application will start in parallel with the
 previous milestone. However in this timeframe, the classifier will be
 integrated and tested with the basic camera app. The app will capture
 live images and pass them to the classifier.
 
-###### 1st May - 20th May: Attempt to Classify Video Input
+###### 1st May - ... ...: Attempt to Classify Video Input
 In the final phase, we will try to process video input. Frames will be
 extracted from the video at regular intervals and fed to the classifier.
-<Due to abysmal results, we abandoned this stage>
+_<Due to abysmal results, we abandoned this stage>_
