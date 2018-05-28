@@ -66,5 +66,4 @@ live images and pass them to the classifier.
 
 ###### 1st May - ... ...: Attempt to Classify Video Input
 In the final phase, we will try to process video input. Frames will be
-extracted from the video at regular intervals and fed to the classifier.
-_<Milestone delayed due to ESEs>_
+extracted from the video at regular intervals and fed to the classifier. _<Milestone delayed due to ESEs>_
